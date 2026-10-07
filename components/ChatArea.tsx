@@ -307,11 +307,11 @@ function ChatArea() {
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const [selectedKnowledgeBase, setSelectedKnowledgeBase] = useState(
-    "yO2XSW6XONX",
+    "LOW7RTKS3D",
   );
 
   const knowledgeBases: KnowledgeBase[] = [
-    { id: "yO2XSW6XONX", name: "knowledge-base-quick-start-pjc3y-data-source" },
+    { id: "LOW7RTKS3D", name: "knowledge-base-quick-start-mjii2" },
     // Add more knowledge bases as needed
   ];
 
